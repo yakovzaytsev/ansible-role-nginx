@@ -1,5 +1,5 @@
 ---
-# tasks file for nginx-magent2
+# tasks file for nginx
 - name: make sure required packages are installed
   apt:
     name: "{{item}}"

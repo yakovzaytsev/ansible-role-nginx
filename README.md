@@ -3,8 +3,6 @@ Role Name
 
 Installs Nginx
 
-Sets up Magento2 Virtual Host
-
 Role Variables
 --------------
 
@@ -19,7 +17,7 @@ How to use role:
       vars:
         - server_name: foo.com
       roles:
-        - role: nobreach.nginx-magento2
+        - role: ysz.nginx
 
 License
 -------

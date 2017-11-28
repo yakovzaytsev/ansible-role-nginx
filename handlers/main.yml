@@ -1,5 +1,5 @@
 ---
-# handlers file for nginx-magent2
+# handlers file for nginx
 - name: restart nginx
   service:
     name: nginx
