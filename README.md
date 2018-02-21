@@ -3,6 +3,8 @@ Role Name
 
 Installs Nginx
 
+Writes working magento2 configuration to /etc/nginx/sites-available/default as an example
+
 Role Variables
 --------------
 
