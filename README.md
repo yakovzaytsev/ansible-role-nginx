@@ -19,7 +19,7 @@ How to use role:
       vars:
         - server_name: foo.com
       roles:
-        - role: ysz.nginx
+        - role: yakovzaytsev.nginx
 
 License
 -------

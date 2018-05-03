@@ -1,7 +1,7 @@
 galaxy_info:
   author: Yakov Zaytsev
   description: Installs Nginx 
-  company: Nobreach
+  company: YSZ
 
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
@@ -54,4 +54,4 @@ galaxy_info:
     #       Maximum 20 tags per role.
 
 dependencies:
-  - nobreach.nginx_handlers
+  - yakovzaytsev.nginx-handlers
